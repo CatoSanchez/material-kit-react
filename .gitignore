@@ -4,6 +4,9 @@
 /node_modules
 .DS_Store
 
+#production
+/build
+
 # testing
 /coverage
 
